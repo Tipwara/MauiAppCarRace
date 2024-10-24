@@ -1,0 +1,1 @@
+D:\MobileApp\MauiAppCSharpBasic\MauiAppCSharpBasic\MauiAppCSharpBasic.csproj;x64
